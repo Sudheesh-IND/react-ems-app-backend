@@ -1,0 +1,6 @@
+1. create folder for backend
+2. npm init
+3. npm i express,mongoose,dotenv,cors
+4. create index.js file
+5. create service folder
+6. create 
